@@ -1,11 +1,13 @@
 import mongoose from "mongoose";
 
-const connection = mongoose.connect("mongodb://localhost:27017/node-practise-1",{
+const connection = function(){
+    mongoose.connect(process.env.MONGO_URI,{
     
-}).then(()=>{
-    console.log("Connected to database successfully");
-}).catch((err)=>{
-    console.log("Connection Failed ", err);
-});
+    }).then(()=>{
+        console.log("Connected to database successfully");
+    }).catch((err)=>{
+        console.log("Connection Failed ", err);
+    });
+}
 
 export default connection;

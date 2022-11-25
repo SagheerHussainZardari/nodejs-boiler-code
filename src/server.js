@@ -1,11 +1,13 @@
 import express from "express";
 import dotenv from "dotenv";
 import bodyParser from "body-parser";
-import "./config/db.js";
 import router from "./routes/index.route.js"
+import connection from "./config/db.js";
 
 const app = express();
 dotenv.config();
+connection();
+
 app.use(bodyParser.json());
 
 app.use(router);
