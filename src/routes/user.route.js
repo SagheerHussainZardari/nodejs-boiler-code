@@ -1,25 +1,21 @@
 import { Router } from "express";
 import UserService from "../services/user.service.js"
 const userRouter = new Router()
+import verifyToken from '../middlewares/authJwt.middleware.js'
 
-
-userRouter.get("/",(req,res)=>{
+userRouter.get("/",verifyToken,(req,res)=>{
     UserService.list(req,res);
 });
 
-userRouter.get("/:id",(req,res)=>{
+userRouter.get("/:id",verifyToken,(req,res)=>{
     UserService.get(req,res);
 });
 
-userRouter.post("/",(req,res)=>{
-    UserService.create(req,res);
-});
-
-userRouter.delete("/:id",(req,res)=>{
+userRouter.delete("/:id",verifyToken,(req,res)=>{
     UserService.delete(req,res);
 });
 
-userRouter.patch("/:id",(req,res)=>{
+userRouter.patch("/:id",verifyToken,(req,res)=>{
     UserService.update(req,res);
 });
 

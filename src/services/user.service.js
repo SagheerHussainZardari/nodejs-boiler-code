@@ -20,15 +20,6 @@ class UserService {
         })
     }
 
-    create(req,res){
-        req.body.password =  bcrypt.hashSync(req.body.password,10);
-        User.create(req.body).then((user) =>{
-            ResponseService.sendResult(res,user,"User created Successfully!","success",200);
-        }).catch(err =>{
-            ResponseService.sendResult(res,null,err.message,"error",400);
-        })
-    }
-
     delete(req,res){
         User.findByIdAndDelete(req.params.id).then((user)=>{
             ResponseService.sendResult(res,null,"User deleted successfully!","success",200);
