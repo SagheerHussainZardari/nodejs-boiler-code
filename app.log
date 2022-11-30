@@ -1,108 +1,77 @@
-{"level":"info","message":"Server running on http://127.0.0.1:3000"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000"}
-{"level":"info","message":"Token not valid: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzODcwOThhOGFhODYwZmU3ZjhjMTVjNiIsInVzZXJlbWFpbCI6InNhZ2hlZXJAZ21haWwuY29tIiwidXNlcm5hbWUiOiJzYWdoZWVyIiwiaWF0IjoxNjY5Nzk3NDAwLCJleHAiOjE2Njk3OTc0MjB9.ntts2xXuk19FyZBD8vmQkWEy91RKZ61ORDNr41HnHfs"}
-{"level":"info","message":"Token not valid: eyJhbGciOiJIUzI1NiIsI\\R5cCI6IkpXVCJ9.eyJpZCI6IjYzODcwOThhOGFhODYwZmU3ZjhjMTVjNiIsInVzZXJlbWFpbCI6InNhZ2hlZXJAZ21haWwuY29tIiwidXNlcm5hbWUiOiJzYWdoZWVyIiwiaWF0IjoxNjY5ODA3ODQyLCJleHAiOjE2Njk4MDc4NjJ9.hs4ilj43xqfgUNDrGos_NSLU1AzA6uHGSGwGiG8sew8"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000"}
-{"level":"info","message":"Token not valid: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyZW1haWwiOiJ1emFpckbWFpbC5jb20iLCJ1c2VybmFtZSI6InV6YWlyIiwiaWF0IjoxNjY5NjM0OTcyfQ.6pgetWyXuhAbsObrwe_ZRNDwOjDmGx7s4dZC3WQbglI"}
-{"level":"info","message":"Token valid: [object Object]"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000"}
-{"level":"info","message":"Token not valid: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzODcwOThhOGFhODYwZmU3ZjhjMTVjNiIsInVzZXJlbWFpbCI6InNhZ2hlZXJAZ21haWwuY29tIiwidXNlcm5hbWUiOiJzYWdoZWVyIiwiaWF0IjoxNjY5ODA3ODkzLCJleHAiOjE2Njk4MDc5MTN9.Xb-wWKC4bLdeGL56qqj8oGJKxHwq7wLL2QYnQti3qlI"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000"}
-{"exp":1669808059,"iat":1669807999,"id":"6387098a8aa860fe7f8c15c6","level":"info","message":"Token valid: ","useremail":"sagheer@gmail.com","username":"sagheer"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000 at: "}
-{"level":"info","message":"Server running on http://127.0.0.1:3000 at: Wed Nov 30 2022 16:36:27 GMT+0500 (Pakistan Standard Time)"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000 at: Wed Nov 30 2022 16:38:25 GMT+0500 (Pakistan Standard Time)"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000 at: Wed Nov 30 2022 16:38:29 GMT+0500 (Pakistan Standard Time)"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000 at: Wed Nov 30 2022 16:38:37 GMT+0500 (Pakistan Standard Time)"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000 at: Wed Nov 30 2022 16:38:39 GMT+0500 (Pakistan Standard Time)"}
-{"level":"info","message":"Token not valid: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzODcwOThhOGFhODYwZmU3ZjhjMTVjNiIsInVzZXJlbWFpbCI6InNhZ2hlZXJAZ21haWwuY29tIiwidXNlcm5hbWUiOiJzYWdoZWVyIiwiaWF0IjoxNjY5ODA3OTk5LCJleHAiOjE2Njk4MDgwNTl9.BJ8jObvy_tvEB6WYWD6A9VS_uQbDnqk1PSEFebgxxRw"}
-{"exp":1669808387,"iat":1669808327,"id":"6387098a8aa860fe7f8c15c6","level":"info","message":"Token valid","useremail":"sagheer@gmail.com","username":"sagheer"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000 at: Wed Nov 30 2022 16:39:05 GMT+0500 (Pakistan Standard Time)"}
-{"exp":1669808387,"iat":1669808327,"id":"6387098a8aa860fe7f8c15c6","level":"info","message":"Token valid","useremail":"sagheer@gmail.com","username":"sagheer"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000 at: Wed Nov 30 2022 16:39:43 GMT+0500 (Pakistan Standard Time)"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000  at: Wed Nov 30 2022 16:41:52 GMT+0500 (Pakistan Standard Time)"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 16:41:54 GMT+0500 (Pakistan Standard Time)"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 16:42:20 GMT+0500 (Pakistan Standard Time)"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 16:43:11 GMT+0500 (Pakistan Standard Time)"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 16:43:13 GMT+0500 (Pakistan Standard Time)"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 16:43:28 GMT+0500 (Pakistan Standard Time)"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 16:43:33 GMT+0500 (Pakistan Standard Time)"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 16:43:35 GMT+0500 (Pakistan Standard Time)"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 16:56:45 GMT+0500 (Pakistan Standard Time)"}
-{"iat":1669809411,"id":"6387098a8aa860fe7f8c15c6","level":"info","message":"Token valid","useremail":"sagheer@gmail.com","username":"sagheer"}
-{"iat":1669809411,"id":"6387098a8aa860fe7f8c15c6","level":"info","message":"Token valid","useremail":"sagheer@gmail.com","username":"sagheer"}
-{"iat":1669809411,"id":"6387098a8aa860fe7f8c15c6","level":"info","message":"Token valid","useremail":"sagheer@gmail.com","username":"sagheer"}
-{"iat":1669809411,"id":"6387098a8aa860fe7f8c15c6","level":"info","message":"Token valid","useremail":"sagheer@gmail.com","username":"sagheer"}
-{"iat":1669809411,"id":"6387098a8aa860fe7f8c15c6","level":"info","message":"Token valid","useremail":"sagheer@gmail.com","username":"sagheer"}
-{"iat":1669809411,"id":"6387098a8aa860fe7f8c15c6","level":"info","message":"Token valid","useremail":"sagheer@gmail.com","username":"sagheer"}
-{"iat":1669809411,"id":"6387098a8aa860fe7f8c15c6","level":"info","message":"Token valid","useremail":"sagheer@gmail.com","username":"sagheer"}
-{"iat":1669809411,"id":"6387098a8aa860fe7f8c15c6","level":"info","message":"Token valid","useremail":"sagheer@gmail.com","username":"sagheer"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 16:57:58 GMT+0500 (Pakistan Standard Time)"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 16:58:00 GMT+0500 (Pakistan Standard Time)"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 16:58:05 GMT+0500 (Pakistan Standard Time)"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 16:58:07 GMT+0500 (Pakistan Standard Time)"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 16:58:10 GMT+0500 (Pakistan Standard Time)"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 16:58:13 GMT+0500 (Pakistan Standard Time)"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 16:58:17 GMT+0500 (Pakistan Standard Time)"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 16:58:22 GMT+0500 (Pakistan Standard Time)"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 16:58:27 GMT+0500 (Pakistan Standard Time)"}
-{"iat":1669809411,"id":"6387098a8aa860fe7f8c15c6","level":"info","message":"Token valid","useremail":"sagheer@gmail.com","username":"sagheer"}
-{"iat":1669809411,"id":"6387098a8aa860fe7f8c15c6","level":"info","message":"Token valid","useremail":"sagheer@gmail.com","username":"sagheer"}
-{"iat":1669809411,"id":"6387098a8aa860fe7f8c15c6","level":"info","message":"Token valid","useremail":"sagheer@gmail.com","username":"sagheer"}
-{"iat":1669809411,"id":"6387098a8aa860fe7f8c15c6","level":"info","message":"Token valid","useremail":"sagheer@gmail.com","username":"sagheer"}
-{"iat":1669809411,"id":"6387098a8aa860fe7f8c15c6","level":"info","message":"Token valid","useremail":"sagheer@gmail.com","username":"sagheer"}
-{"iat":1669809411,"id":"6387098a8aa860fe7f8c15c6","level":"info","message":"Token valid","useremail":"sagheer@gmail.com","username":"sagheer"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 16:58:57 GMT+0500 (Pakistan Standard Time)"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 16:59:03 GMT+0500 (Pakistan Standard Time)"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 16:59:07 GMT+0500 (Pakistan Standard Time)"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 16:59:12 GMT+0500 (Pakistan Standard Time)"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 16:59:13 GMT+0500 (Pakistan Standard Time)"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 16:59:15 GMT+0500 (Pakistan Standard Time)"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 16:59:21 GMT+0500 (Pakistan Standard Time)"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 16:59:22 GMT+0500 (Pakistan Standard Time)"}
-{"iat":1669809411,"id":"6387098a8aa860fe7f8c15c6","level":"info","message":"Token valid","useremail":"sagheer@gmail.com","username":"sagheer"}
-{"iat":1669809411,"id":"6387098a8aa860fe7f8c15c6","level":"info","message":"Token valid","useremail":"sagheer@gmail.com","username":"sagheer"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 16:59:46 GMT+0500 (Pakistan Standard Time)"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 17:03:19 GMT+0500 (Pakistan Standard Time)"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 17:03:36 GMT+0500 (Pakistan Standard Time)"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 17:03:44 GMT+0500 (Pakistan Standard Time)"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 17:03:45 GMT+0500 (Pakistan Standard Time)"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 17:03:47 GMT+0500 (Pakistan Standard Time)"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 17:03:49 GMT+0500 (Pakistan Standard Time)"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 17:03:51 GMT+0500 (Pakistan Standard Time)"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 17:03:52 GMT+0500 (Pakistan Standard Time)"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 17:03:54 GMT+0500 (Pakistan Standard Time)"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 17:04:00 GMT+0500 (Pakistan Standard Time)"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 17:04:07 GMT+0500 (Pakistan Standard Time)"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 17:04:08 GMT+0500 (Pakistan Standard Time)"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 17:04:23 GMT+0500 (Pakistan Standard Time)"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 17:04:27 GMT+0500 (Pakistan Standard Time)"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 17:05:05 GMT+0500 (Pakistan Standard Time)"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 17:05:39 GMT+0500 (Pakistan Standard Time)"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 17:05:47 GMT+0500 (Pakistan Standard Time)"}
-{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 17:12:00 GMT+0500 (Pakistan Standard Time)"}
+{"level":"info","message":"Token valid , userId=6387098a8aa860fe7f8c15c6"}
+{"level":"info","message":"checkout"}
+{"level":"info","message":"Token valid , userId=6387098a8aa860fe7f8c15c6"}
+{"level":"info","message":"checkout"}
+{"level":"info","message":"Token valid , userId=6387098a8aa860fe7f8c15c6"}
+{"level":"info","message":"checkout"}
+{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 18:24:06 GMT+0500 (Pakistan Standard Time)"}
+{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 18:24:10 GMT+0500 (Pakistan Standard Time)"}
+{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 18:24:17 GMT+0500 (Pakistan Standard Time)"}
+{"level":"info","message":"Token valid , userId=6387098a8aa860fe7f8c15c6"}
+{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 18:24:38 GMT+0500 (Pakistan Standard Time)"}
+{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 18:24:44 GMT+0500 (Pakistan Standard Time)"}
+{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 18:24:44 GMT+0500 (Pakistan Standard Time)"}
+{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 18:24:45 GMT+0500 (Pakistan Standard Time)"}
+{"level":"info","message":"Token valid , userId=6387098a8aa860fe7f8c15c6"}
+{"level":"info","message":"checkin"}
+{"level":"info","message":"Token valid , userId=6387098a8aa860fe7f8c15c6"}
+{"level":"info","message":"checkin"}
+{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 18:25:34 GMT+0500 (Pakistan Standard Time)"}
+{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 18:25:37 GMT+0500 (Pakistan Standard Time)"}
+{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 18:25:42 GMT+0500 (Pakistan Standard Time)"}
+{"level":"info","message":"Token valid , userId=6387098a8aa860fe7f8c15c6"}
+{"level":"info","message":[]}
+{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 18:26:13 GMT+0500 (Pakistan Standard Time)"}
+{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 18:26:17 GMT+0500 (Pakistan Standard Time)"}
+{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 18:26:20 GMT+0500 (Pakistan Standard Time)"}
+{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 18:26:21 GMT+0500 (Pakistan Standard Time)"}
+{"level":"info","message":"Token valid , userId=6387098a8aa860fe7f8c15c6"}
+{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 18:26:29 GMT+0500 (Pakistan Standard Time)"}
+{"level":"info","message":"Token valid , userId=6387098a8aa860fe7f8c15c6"}
+{"level":"info","message":null}
+{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 18:26:44 GMT+0500 (Pakistan Standard Time)"}
+{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 18:26:45 GMT+0500 (Pakistan Standard Time)"}
+{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 18:26:48 GMT+0500 (Pakistan Standard Time)"}
+{"level":"info","message":"Token valid , userId=6387098a8aa860fe7f8c15c6"}
+{"level":"info","message":"6387098a8aa860fe7f8c15c6"}
+{"level":"info","message":null}
+{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 18:27:25 GMT+0500 (Pakistan Standard Time)"}
+{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 18:27:28 GMT+0500 (Pakistan Standard Time)"}
+{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 18:27:33 GMT+0500 (Pakistan Standard Time)"}
+{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 18:27:35 GMT+0500 (Pakistan Standard Time)"}
+{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 18:27:36 GMT+0500 (Pakistan Standard Time)"}
+{"level":"info","message":"Token valid , userId=6387098a8aa860fe7f8c15c6"}
+{"level":"info","message":[{"__v":0,"_id":"638759c020e7ad573bbe7354","checkin":"1669814720844","checkout":null,"user_id":"6387098a8aa860fe7f8c15c6"}]}
+{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 18:27:50 GMT+0500 (Pakistan Standard Time)"}
+{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 18:27:54 GMT+0500 (Pakistan Standard Time)"}
+{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 18:27:54 GMT+0500 (Pakistan Standard Time)"}
+{"level":"info","message":"Token valid , userId=6387098a8aa860fe7f8c15c6"}
+{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 18:28:48 GMT+0500 (Pakistan Standard Time)"}
+{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 18:28:51 GMT+0500 (Pakistan Standard Time)"}
+{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 18:28:57 GMT+0500 (Pakistan Standard Time)"}
+{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 18:29:00 GMT+0500 (Pakistan Standard Time)"}
+{"level":"info","message":"Token valid , userId=6387098a8aa860fe7f8c15c6"}
+{"level":"info","message":null}
+{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 18:29:25 GMT+0500 (Pakistan Standard Time)"}
+{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 18:29:30 GMT+0500 (Pakistan Standard Time)"}
+{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 18:29:35 GMT+0500 (Pakistan Standard Time)"}
+{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 18:29:40 GMT+0500 (Pakistan Standard Time)"}
+{"level":"info","message":"Token valid , userId=6387098a8aa860fe7f8c15c6"}
+{"level":"info","message":{"__v":0,"_id":"638759c020e7ad573bbe7354","checkin":"1669814720844","checkout":null,"user_id":"6387098a8aa860fe7f8c15c6"}}
+{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 18:29:50 GMT+0500 (Pakistan Standard Time)"}
+{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 18:29:51 GMT+0500 (Pakistan Standard Time)"}
+{"level":"info","message":"Token valid , userId=6387098a8aa860fe7f8c15c6"}
+{"level":"info","message":"Token valid , userId=6387098a8aa860fe7f8c15c6"}
+{"level":"info","message":"checkin"}
+{"level":"info","message":"Token valid , userId=6387098a8aa860fe7f8c15c6"}
+{"level":"info","message":"Token valid , userId=6387098a8aa860fe7f8c15c6"}
+{"level":"info","message":"Token valid , userId=6387098a8aa860fe7f8c15c6"}
+{"level":"info","message":"Token valid , userId=6387098a8aa860fe7f8c15c6"}
+{"level":"info","message":"Token valid , userId=6387098a8aa860fe7f8c15c6"}
+{"level":"info","message":"Token valid , userId=6387098a8aa860fe7f8c15c6"}
+{"level":"info","message":"Token valid , userId=6387098a8aa860fe7f8c15c6"}
+{"level":"info","message":"Token valid , userId=6387098a8aa860fe7f8c15c6"}
+{"level":"info","message":"Token valid , userId=6387098a8aa860fe7f8c15c6"}
+{"level":"info","message":"Token valid , userId=6387098a8aa860fe7f8c15c6"}
+{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 18:30:34 GMT+0500 (Pakistan Standard Time)"}
+{"level":"info","message":"Server running on http://127.0.0.1:3000 started at: Wed Nov 30 2022 18:30:35 GMT+0500 (Pakistan Standard Time)"}
