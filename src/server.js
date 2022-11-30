@@ -15,5 +15,5 @@ app.use(bodyParser.json());
 app.use(router);
 
 app.listen(process.env.PORT || 3000, ()=>{
-    logger.info("Server running on http://127.0.0.1:"+process.env.PORT);
+    logger.info("Server running on http://127.0.0.1:"+process.env.PORT+" started at: "+Date());
 });

@@ -1,22 +1,11 @@
 import { Router } from "express";
-import UserService from "../services/user.service.js"
+import {list,get,destroy,update} from "../controllers/user.controller.js"
 const userRouter = new Router()
-import verifyToken from '../middlewares/authJwt.middleware.js'
+import verifyToken from "../middlewares/authJwt.middleware.js"
 
-userRouter.get("/",verifyToken,(req,res)=>{
-    UserService.list(req,res);
-});
-
-userRouter.get("/:id",verifyToken,(req,res)=>{
-    UserService.get(req,res);
-});
-
-userRouter.delete("/:id",verifyToken,(req,res)=>{
-    UserService.delete(req,res);
-});
-
-userRouter.patch("/:id",verifyToken,(req,res)=>{
-    UserService.update(req,res);
-});
+userRouter.get("/",verifyToken,list);
+userRouter.get("/:id",verifyToken,get);
+userRouter.delete("/:id",verifyToken,destroy);
+userRouter.patch("/:id",verifyToken,update);
 
 export default userRouter;
